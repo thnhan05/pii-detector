@@ -1,0 +1,7 @@
+streamlit
+unsloth
+torch
+transformers
+huggingface_hub
+bitsandbytes
+sentencepiece
